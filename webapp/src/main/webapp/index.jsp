@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> welcome hai re</h1>
+   <h1> AMMA BEHAN PE AA JAUNGA MAI</h1>
 
   
 </form>
