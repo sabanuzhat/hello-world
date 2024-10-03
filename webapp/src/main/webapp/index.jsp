@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> I love my InDIA</h1>
+   <h1>Durga PUJA</h1>
 
   
 </form>
