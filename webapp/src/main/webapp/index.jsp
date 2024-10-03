@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> AMMA BEHAN PE AA JAUNGA MAI</h1>
+   <h1> I love my InDIA</h1>
 
   
 </form>
