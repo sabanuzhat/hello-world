@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> JAIMATA DI</h>
+   <h1> JAI_MATA_RAANI</h>
 
   
 </form>
